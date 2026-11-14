@@ -38,7 +38,7 @@ Click the green **Code** button on this repository and select **Download ZIP**. 
 Alternatively, clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/ns7824002-gif/QR-Studio
 ```
 
 ### Step 2: Open the Project Folder
